@@ -1,0 +1,44 @@
+{
+  "Carrousel": {
+    "description": "Auto imported from components/Carrousel.vue"
+  },
+  "LazyCarrousel": {
+    "description": "Auto imported from components/Carrousel.vue"
+  },
+  "Content": {
+    "description": "Auto imported from components/Content.vue"
+  },
+  "LazyContent": {
+    "description": "Auto imported from components/Content.vue"
+  },
+  "ContentAboutMe": {
+    "description": "Auto imported from components/ContentAboutMe.vue"
+  },
+  "LazyContentAboutMe": {
+    "description": "Auto imported from components/ContentAboutMe.vue"
+  },
+  "ContentSi": {
+    "description": "Auto imported from components/ContentSI.vue"
+  },
+  "LazyContentSi": {
+    "description": "Auto imported from components/ContentSI.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "SideBar": {
+    "description": "Auto imported from components/SideBar.vue"
+  },
+  "LazySideBar": {
+    "description": "Auto imported from components/SideBar.vue"
+  },
+  "Skills": {
+    "description": "Auto imported from components/Skills.vue"
+  },
+  "LazySkills": {
+    "description": "Auto imported from components/Skills.vue"
+  }
+}
